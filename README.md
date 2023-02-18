@@ -29,6 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cptien&" alt="cptien" /></p>
 
 <h3 align="center">You can find me at:</h3>
-<div align='center' width=100%>
+
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-pei-tien/)
-</div>
+
