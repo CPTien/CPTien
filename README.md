@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Tien</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
 
+</br>
 <h3 align="center">Languages and Tools</h3>
 <div align='center' width=100%>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -19,7 +20,8 @@
 <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" />
 </div>
 
-<p align="left">
+</br>
+<p align="center">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cptien&show_icons=true&locale=en&layout=compact" alt="cptien" /></p>
