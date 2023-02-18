@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Tien</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align='center' width=100%>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
@@ -28,5 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cptien&" alt="cptien" /></p>
 
-### You can reach me at:
+<h3 align="center">You can find me at:</h3>
+<div align='center' width=100%>
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-pei-tien/)
+</div>
