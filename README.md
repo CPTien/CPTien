@@ -28,7 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cptien&show_icons=true&locale=en" alt="cptien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cptien&" alt="cptien" /></p>
 
 </br>
 <h3 align="left">You can find me at:</h3>
