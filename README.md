@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Tien</h1>
-<h3 align="center">A passionate full stack software engineer</h3>
+<h3 align="center">A passionate full stack software engineer with background in Accounting</h3>
 
 </br>
 <h3 align="center">Languages and Tools</h3>
